@@ -50,3 +50,6 @@
 	path = third_party/scream-reproduce
 	url = https://github.com/StanfordSNR/scream.git
 	ignore = dirty
+[submodule "third_party/indigo-dataset-gen"]
+	path = third_party/indigo-dataset-gen
+	url = git@gitlab.lrz.de:ml-congestion-control/indigo.git

@@ -63,3 +63,7 @@ schemes:
     name: Indigo
     color: indigo
     marker: 'D'
+  indigo-dataset-gen:
+    name: Indigo-dataset-gen
+    color: bronze
+    marker: 'g'
